@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Live Wallpaper</string>
+    <string name="image">Anh dep</string>
+    <string name="categories">Categories</string>
+    <string name="personal">Personal</string>
+    <string name="account">Account</string>
+    <string name="feedback">Feedback</string>
+    <string name="rateapp">Rate the app</string>
+    <string name="setting">Setting</string>
+    <string name="theme">Theme</string>
+    <string name="datetime">Sunday, Jun 30</string>
+</resources>
